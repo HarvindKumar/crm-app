@@ -11,3 +11,8 @@ def create_contact():
  # Update Contact.
 def update_contact():
   print "Code logic to update contact."
+
+
+  # Delete Contact.
+def delete_contact():
+  print "Code logic to delete contact."
